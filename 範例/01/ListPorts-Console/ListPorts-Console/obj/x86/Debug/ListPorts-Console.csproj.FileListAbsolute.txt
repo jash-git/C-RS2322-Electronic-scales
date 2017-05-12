@@ -1,0 +1,8 @@
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ListPorts-Console\bin\Debug\ListPorts-Console.exe
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ListPorts-Console\bin\Debug\ListPorts-Console.pdb
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ListPorts-Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ListPorts-Console\obj\x86\Debug\ListPorts-Console.exe
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ListPorts-Console\obj\x86\Debug\ListPorts-Console.pdb
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ListPorts-Console\ListPorts-Console\obj\x86\Debug\ListPorts-Console.exe
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ListPorts-Console\ListPorts-Console\obj\x86\Debug\ListPorts-Console.pdb
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ListPorts-Console\ListPorts-Console\bin\Debug\ListPorts-Console.exe.config

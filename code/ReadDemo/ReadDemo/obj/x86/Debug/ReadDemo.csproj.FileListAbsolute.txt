@@ -1,0 +1,29 @@
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\bin\Debug\ReadDemo.exe
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\bin\Debug\ReadDemo.pdb
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\ReadDemo.Form1.resources
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\ReadDemo.Properties.Resources.resources
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\ReadDemo.exe
+C:\Documents and Settings\maa\Local Settings\Application Data\Temporary Projects\ReadDemo\obj\x86\Debug\ReadDemo.pdb
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.exe
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.pdb
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\bin\Debug\ReadDemo.exe
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\bin\Debug\ReadDemo.pdb
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.Form1.resources
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.Properties.Resources.resources
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\maa\my documents\visual studio 2010\Projects\ReadDemo\ReadDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.exe
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.pdb
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\bin\Debug\ReadDemo.exe.config
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\bin\Debug\ReadDemo.exe
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\bin\Debug\ReadDemo.pdb
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.Form1.resources
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.Properties.Resources.resources
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.csproj.GenerateResource.Cache
+C:\Users\RD\Desktop\C# RS2322電子秤(Electronic scales)\code\ReadDemo\ReadDemo\bin\Debug\ReadDemo.exe.config
+C:\Users\RD\Desktop\C# RS2322電子秤(Electronic scales)\code\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.exe
+C:\Users\RD\Desktop\C# RS2322電子秤(Electronic scales)\code\ReadDemo\ReadDemo\obj\x86\Debug\ReadDemo.pdb

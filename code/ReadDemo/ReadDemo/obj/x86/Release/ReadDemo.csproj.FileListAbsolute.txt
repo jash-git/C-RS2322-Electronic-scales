@@ -1,0 +1,16 @@
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\bin\Release\ReadDemo.exe.config
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\bin\Release\ReadDemo.exe
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\bin\Release\ReadDemo.pdb
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\obj\x86\Release\ReadDemo.Form1.resources
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\obj\x86\Release\ReadDemo.Properties.Resources.resources
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\obj\x86\Release\ReadDemo.csproj.GenerateResource.Cache
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\obj\x86\Release\ReadDemo.exe
+C:\Users\RD\Desktop\SerialPortReadExamples\ReadDemo\ReadDemo\obj\x86\Release\ReadDemo.pdb
+C:\Users\RD\Desktop\C# RS2322電子秤(Electronic scales)\code\ReadDemo\ReadDemo\bin\Release\ReadDemo.exe.config
+C:\Users\RD\Desktop\C# RS2322電子秤(Electronic scales)\code\ReadDemo\ReadDemo\bin\Release\ReadDemo.exe
+C:\Users\RD\Desktop\C# RS2322電子秤(Electronic scales)\code\ReadDemo\ReadDemo\bin\Release\ReadDemo.pdb
+C:\Users\RD\Desktop\C# RS2322電子秤(Electronic scales)\code\ReadDemo\ReadDemo\obj\x86\Release\ReadDemo.Form1.resources
+C:\Users\RD\Desktop\C# RS2322電子秤(Electronic scales)\code\ReadDemo\ReadDemo\obj\x86\Release\ReadDemo.Properties.Resources.resources
+C:\Users\RD\Desktop\C# RS2322電子秤(Electronic scales)\code\ReadDemo\ReadDemo\obj\x86\Release\ReadDemo.csproj.GenerateResource.Cache
+C:\Users\RD\Desktop\C# RS2322電子秤(Electronic scales)\code\ReadDemo\ReadDemo\obj\x86\Release\ReadDemo.exe
+C:\Users\RD\Desktop\C# RS2322電子秤(Electronic scales)\code\ReadDemo\ReadDemo\obj\x86\Release\ReadDemo.pdb
